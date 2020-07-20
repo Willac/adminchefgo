@@ -22,7 +22,7 @@
     "jquery": "^3.2.1",
     "laravel-echo": "^1.4.0",
     "laravel-mix": "0.*",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "pace-progress": "^1.0.2",
     "pusher-js": "^4.2.2",
     "select2": "^4.0.3",
